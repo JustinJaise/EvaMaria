@@ -51,6 +51,7 @@
             "description": "Username of a Support Group / ADMIN. ( Should be username without @ and not ID)",
 
             "value": ""
+        },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
             "required": false
@@ -74,6 +75,7 @@
             "value": "",
 
             "required": false
+         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
             "value": "Telegram_files",
