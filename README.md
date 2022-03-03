@@ -134,3 +134,13 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
 
 [![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Master Brain]
+
+(https://t.me/Master_Brain1)
+𝙶𝚁𝙾𝚄𝙿 ›› [Malayalam Rockers ]
+
+(https://t.me/MalayalamRocckers)
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [Tamil Rockers]
+
+(https://t.me/TamilRockerssk)
