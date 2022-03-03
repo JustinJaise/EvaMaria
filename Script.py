@@ -32,7 +32,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 - Samantha is a open source project. 
-- Source - https://t.me/nokkiyiruno
+- Source - https://t.me/MalayalamRocckers
 
 <b>DEVS:</b>
 - <a href=https://t.me/Master_Brain1>Hacker</a>"""
